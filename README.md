@@ -15,8 +15,8 @@ Citizens can submit waste collections, workers can verify them, and citizens can
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React, React Router, Tailwind CSS, Vite, Axios
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, Mongoose
-**Authentication:** JWT, bcrypt, OTP
-**Tools:** Git, GitHub
+* **Frontend:** React, React Router, Tailwind CSS, Vite, Axios
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, Mongoose
+* **Authentication:** JWT, bcrypt, OTP
+* **Tools:** Git, GitHub
